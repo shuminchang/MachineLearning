@@ -1,3 +1,4 @@
+# Kaggle Machine Learning lesson
 # Pipeline with missing values
 data = pd.read_csv('../input/train.csv')
 
